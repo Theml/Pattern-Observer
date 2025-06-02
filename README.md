@@ -50,5 +50,5 @@ classDiagram
     Observable "1" --> "*" Observer : observers
 ```
 
-## 👥 Autor
+## 👥 Autores
 Luis Gustavo Theml Novais e Marciana Pereira
